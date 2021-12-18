@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sophia.benmoussa@adomik.com
+	name = Sophia Benmoussa
